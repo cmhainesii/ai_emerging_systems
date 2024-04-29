@@ -1,4 +1,4 @@
-# ai_emerging_systems 
+# Emerging Trends / AI
 
 ## Description 
 
